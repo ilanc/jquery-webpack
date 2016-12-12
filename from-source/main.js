@@ -5,3 +5,5 @@ require('jquery/src/manipulation');
 $('body').append('<p>Success</p>');
 console.log($.fn.jquery);
 console.log($('p').html());
+
+require('./other');
