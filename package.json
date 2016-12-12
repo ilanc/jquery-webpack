@@ -1,0 +1,15 @@
+{
+  "name": "jquery-webpack",
+  "version": "1.0.0",
+  "description": "Use jquery in webpack",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ilan@netreturn.co.za",
+  "license": "ISC",
+  "devDependencies": {
+    "jquery": "^3.1.1",
+    "sizzle": "^2.3.3"
+  }
+}
