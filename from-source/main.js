@@ -3,3 +3,4 @@ require('jquery/src/core/init');
 require('jquery/src/manipulation');
 
 $('body').append('<p>Success</p>');
+console.log($.fn.jquery);
